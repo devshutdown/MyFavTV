@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A20816891D9A3ADD002373B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20816881D9A3ADD002373B0 /* AppDelegate.swift */; };
+		A208168B1D9A3ADD002373B0 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A208168A1D9A3ADD002373B0 /* MasterViewController.swift */; };
+		A208168D1D9A3ADD002373B0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A208168C1D9A3ADD002373B0 /* DetailViewController.swift */; };
+		A20816901D9A3ADD002373B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A208168E1D9A3ADD002373B0 /* Main.storyboard */; };
+		A20816921D9A3ADD002373B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20816911D9A3ADD002373B0 /* Assets.xcassets */; };
+		A20816951D9A3ADD002373B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20816931D9A3ADD002373B0 /* LaunchScreen.storyboard */; };
+		A20816A91D9A3E51002373B0 /* 24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A208169D1D9A3E51002373B0 /* 24.jpg */; };
+		A20816AA1D9A3E51002373B0 /* Arrested Development.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A208169E1D9A3E51002373B0 /* Arrested Development.jpg */; };
+		A20816AB1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A208169F1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg */; };
+		A20816AC1D9A3E51002373B0 /* community.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A01D9A3E51002373B0 /* community.jpg */; };
+		A20816AD1D9A3E51002373B0 /* dexter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A11D9A3E51002373B0 /* dexter.jpg */; };
+		A20816AE1D9A3E51002373B0 /* felicity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A21D9A3E51002373B0 /* felicity.jpg */; };
+		A20816AF1D9A3E51002373B0 /* firefly.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A31D9A3E51002373B0 /* firefly.jpg */; };
+		A20816B01D9A3E51002373B0 /* newsradio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A41D9A3E51002373B0 /* newsradio.jpg */; };
+		A20816B11D9A3E51002373B0 /* The O.C..jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A51D9A3E51002373B0 /* The O.C..jpg */; };
+		A20816B21D9A3E51002373B0 /* The Office.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A61D9A3E51002373B0 /* The Office.jpg */; };
+		A20816B31D9A3E51002373B0 /* roswell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A71D9A3E51002373B0 /* roswell.jpg */; };
+		A20816B41D9A3E51002373B0 /* The Wonder Years.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A81D9A3E51002373B0 /* The Wonder Years.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A20816851D9A3ADC002373B0 /* MyFavTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A20816881D9A3ADD002373B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A208168A1D9A3ADD002373B0 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		A208168C1D9A3ADD002373B0 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		A208168F1D9A3ADD002373B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A20816911D9A3ADD002373B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A20816941D9A3ADD002373B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A20816961D9A3ADD002373B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A208169D1D9A3E51002373B0 /* 24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 24.jpg; path = ../TVImages/24.jpg; sourceTree = "<group>"; };
+		A208169E1D9A3E51002373B0 /* Arrested Development.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Arrested Development.jpg"; path = "../TVImages/Arrested Development.jpg"; sourceTree = "<group>"; };
+		A208169F1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Buffy the Vampire Slayer.jpg"; path = "../TVImages/Buffy the Vampire Slayer.jpg"; sourceTree = "<group>"; };
+		A20816A01D9A3E51002373B0 /* community.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = community.jpg; path = ../TVImages/community.jpg; sourceTree = "<group>"; };
+		A20816A11D9A3E51002373B0 /* dexter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dexter.jpg; path = ../TVImages/dexter.jpg; sourceTree = "<group>"; };
+		A20816A21D9A3E51002373B0 /* felicity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = felicity.jpg; path = ../TVImages/felicity.jpg; sourceTree = "<group>"; };
+		A20816A31D9A3E51002373B0 /* firefly.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = firefly.jpg; path = ../TVImages/firefly.jpg; sourceTree = "<group>"; };
+		A20816A41D9A3E51002373B0 /* newsradio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = newsradio.jpg; path = ../TVImages/newsradio.jpg; sourceTree = "<group>"; };
+		A20816A51D9A3E51002373B0 /* The O.C..jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The O.C..jpg"; path = "../TVImages/The O.C..jpg"; sourceTree = "<group>"; };
+		A20816A61D9A3E51002373B0 /* The Office.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Office.jpg"; path = "../TVImages/The Office.jpg"; sourceTree = "<group>"; };
+		A20816A71D9A3E51002373B0 /* roswell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = roswell.jpg; path = ../TVImages/roswell.jpg; sourceTree = "<group>"; };
+		A20816A81D9A3E51002373B0 /* The Wonder Years.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Wonder Years.jpg"; path = "../TVImages/The Wonder Years.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A20816821D9A3ADC002373B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A208167C1D9A3ADC002373B0 = {
+			isa = PBXGroup;
+			children = (
+				A208169C1D9A3E37002373B0 /* Images */,
+				A20816871D9A3ADD002373B0 /* MyFavTV */,
+				A20816861D9A3ADC002373B0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A20816861D9A3ADC002373B0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A20816851D9A3ADC002373B0 /* MyFavTV.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A20816871D9A3ADD002373B0 /* MyFavTV */ = {
+			isa = PBXGroup;
+			children = (
+				A20816881D9A3ADD002373B0 /* AppDelegate.swift */,
+				A208168A1D9A3ADD002373B0 /* MasterViewController.swift */,
+				A208168C1D9A3ADD002373B0 /* DetailViewController.swift */,
+				A208168E1D9A3ADD002373B0 /* Main.storyboard */,
+				A20816911D9A3ADD002373B0 /* Assets.xcassets */,
+				A20816931D9A3ADD002373B0 /* LaunchScreen.storyboard */,
+				A20816961D9A3ADD002373B0 /* Info.plist */,
+			);
+			path = MyFavTV;
+			sourceTree = "<group>";
+		};
+		A208169C1D9A3E37002373B0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				A208169D1D9A3E51002373B0 /* 24.jpg */,
+				A208169E1D9A3E51002373B0 /* Arrested Development.jpg */,
+				A208169F1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg */,
+				A20816A01D9A3E51002373B0 /* community.jpg */,
+				A20816A11D9A3E51002373B0 /* dexter.jpg */,
+				A20816A21D9A3E51002373B0 /* felicity.jpg */,
+				A20816A31D9A3E51002373B0 /* firefly.jpg */,
+				A20816A41D9A3E51002373B0 /* newsradio.jpg */,
+				A20816A51D9A3E51002373B0 /* The O.C..jpg */,
+				A20816A61D9A3E51002373B0 /* The Office.jpg */,
+				A20816A71D9A3E51002373B0 /* roswell.jpg */,
+				A20816A81D9A3E51002373B0 /* The Wonder Years.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A20816841D9A3ADC002373B0 /* MyFavTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A20816991D9A3ADD002373B0 /* Build configuration list for PBXNativeTarget "MyFavTV" */;
+			buildPhases = (
+				A20816811D9A3ADC002373B0 /* Sources */,
+				A20816821D9A3ADC002373B0 /* Frameworks */,
+				A20816831D9A3ADC002373B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyFavTV;
+			productName = MyFavTV;
+			productReference = A20816851D9A3ADC002373B0 /* MyFavTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A208167D1D9A3ADC002373B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Rock Valley College";
+				TargetAttributes = {
+					A20816841D9A3ADC002373B0 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = A20816801D9A3ADC002373B0 /* Build configuration list for PBXProject "MyFavTV" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A208167C1D9A3ADC002373B0;
+			productRefGroup = A20816861D9A3ADC002373B0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A20816841D9A3ADC002373B0 /* MyFavTV */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A20816831D9A3ADC002373B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A20816AA1D9A3E51002373B0 /* Arrested Development.jpg in Resources */,
+				A20816951D9A3ADD002373B0 /* LaunchScreen.storyboard in Resources */,
+				A20816B31D9A3E51002373B0 /* roswell.jpg in Resources */,
+				A20816AB1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg in Resources */,
+				A20816B11D9A3E51002373B0 /* The O.C..jpg in Resources */,
+				A20816AE1D9A3E51002373B0 /* felicity.jpg in Resources */,
+				A20816921D9A3ADD002373B0 /* Assets.xcassets in Resources */,
+				A20816AF1D9A3E51002373B0 /* firefly.jpg in Resources */,
+				A20816901D9A3ADD002373B0 /* Main.storyboard in Resources */,
+				A20816AD1D9A3E51002373B0 /* dexter.jpg in Resources */,
+				A20816B21D9A3E51002373B0 /* The Office.jpg in Resources */,
+				A20816B41D9A3E51002373B0 /* The Wonder Years.jpg in Resources */,
+				A20816B01D9A3E51002373B0 /* newsradio.jpg in Resources */,
+				A20816A91D9A3E51002373B0 /* 24.jpg in Resources */,
+				A20816AC1D9A3E51002373B0 /* community.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A20816811D9A3ADC002373B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A208168D1D9A3ADD002373B0 /* DetailViewController.swift in Sources */,
+				A208168B1D9A3ADD002373B0 /* MasterViewController.swift in Sources */,
+				A20816891D9A3ADD002373B0 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A208168E1D9A3ADD002373B0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A208168F1D9A3ADD002373B0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A20816931D9A3ADD002373B0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A20816941D9A3ADD002373B0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A20816971D9A3ADD002373B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		A20816981D9A3ADD002373B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A208169A1D9A3ADD002373B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = MyFavTV/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFavTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A208169B1D9A3ADD002373B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = MyFavTV/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFavTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A20816801D9A3ADC002373B0 /* Build configuration list for PBXProject "MyFavTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A20816971D9A3ADD002373B0 /* Debug */,
+				A20816981D9A3ADD002373B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A20816991D9A3ADD002373B0 /* Build configuration list for PBXNativeTarget "MyFavTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A208169A1D9A3ADD002373B0 /* Debug */,
+				A208169B1D9A3ADD002373B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A208167D1D9A3ADC002373B0 /* Project object */;
+}
