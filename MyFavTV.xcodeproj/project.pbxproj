@@ -13,18 +13,18 @@
 		A20816901D9A3ADD002373B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A208168E1D9A3ADD002373B0 /* Main.storyboard */; };
 		A20816921D9A3ADD002373B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20816911D9A3ADD002373B0 /* Assets.xcassets */; };
 		A20816951D9A3ADD002373B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20816931D9A3ADD002373B0 /* LaunchScreen.storyboard */; };
-		A20816A91D9A3E51002373B0 /* 24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A208169D1D9A3E51002373B0 /* 24.jpg */; };
-		A20816AA1D9A3E51002373B0 /* Arrested Development.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A208169E1D9A3E51002373B0 /* Arrested Development.jpg */; };
-		A20816AB1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A208169F1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg */; };
-		A20816AC1D9A3E51002373B0 /* community.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A01D9A3E51002373B0 /* community.jpg */; };
-		A20816AD1D9A3E51002373B0 /* dexter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A11D9A3E51002373B0 /* dexter.jpg */; };
-		A20816AE1D9A3E51002373B0 /* felicity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A21D9A3E51002373B0 /* felicity.jpg */; };
-		A20816AF1D9A3E51002373B0 /* firefly.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A31D9A3E51002373B0 /* firefly.jpg */; };
-		A20816B01D9A3E51002373B0 /* newsradio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A41D9A3E51002373B0 /* newsradio.jpg */; };
-		A20816B11D9A3E51002373B0 /* The O.C..jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A51D9A3E51002373B0 /* The O.C..jpg */; };
-		A20816B21D9A3E51002373B0 /* The Office.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A61D9A3E51002373B0 /* The Office.jpg */; };
-		A20816B31D9A3E51002373B0 /* roswell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A71D9A3E51002373B0 /* roswell.jpg */; };
-		A20816B41D9A3E51002373B0 /* The Wonder Years.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A20816A81D9A3E51002373B0 /* The Wonder Years.jpg */; };
+		A2878D601DA3365300E1F903 /* 24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D541DA3365300E1F903 /* 24.jpg */; };
+		A2878D611DA3365300E1F903 /* Arrested Development.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D551DA3365300E1F903 /* Arrested Development.jpg */; };
+		A2878D621DA3365300E1F903 /* Buffy the Vampire Slayer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D561DA3365300E1F903 /* Buffy the Vampire Slayer.jpg */; };
+		A2878D631DA3365300E1F903 /* community.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D571DA3365300E1F903 /* community.jpg */; };
+		A2878D641DA3365300E1F903 /* dexter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D581DA3365300E1F903 /* dexter.jpg */; };
+		A2878D651DA3365300E1F903 /* felicity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D591DA3365300E1F903 /* felicity.jpg */; };
+		A2878D661DA3365300E1F903 /* firefly.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D5A1DA3365300E1F903 /* firefly.jpg */; };
+		A2878D671DA3365300E1F903 /* newsradio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D5B1DA3365300E1F903 /* newsradio.jpg */; };
+		A2878D681DA3365300E1F903 /* roswell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D5C1DA3365300E1F903 /* roswell.jpg */; };
+		A2878D691DA3365300E1F903 /* The O.C..jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D5D1DA3365300E1F903 /* The O.C..jpg */; };
+		A2878D6A1DA3365300E1F903 /* The Office.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D5E1DA3365300E1F903 /* The Office.jpg */; };
+		A2878D6B1DA3365300E1F903 /* The Wonder Years.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2878D5F1DA3365300E1F903 /* The Wonder Years.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,18 +36,18 @@
 		A20816911D9A3ADD002373B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A20816941D9A3ADD002373B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A20816961D9A3ADD002373B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A208169D1D9A3E51002373B0 /* 24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 24.jpg; path = ../TVImages/24.jpg; sourceTree = "<group>"; };
-		A208169E1D9A3E51002373B0 /* Arrested Development.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Arrested Development.jpg"; path = "../TVImages/Arrested Development.jpg"; sourceTree = "<group>"; };
-		A208169F1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Buffy the Vampire Slayer.jpg"; path = "../TVImages/Buffy the Vampire Slayer.jpg"; sourceTree = "<group>"; };
-		A20816A01D9A3E51002373B0 /* community.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = community.jpg; path = ../TVImages/community.jpg; sourceTree = "<group>"; };
-		A20816A11D9A3E51002373B0 /* dexter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dexter.jpg; path = ../TVImages/dexter.jpg; sourceTree = "<group>"; };
-		A20816A21D9A3E51002373B0 /* felicity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = felicity.jpg; path = ../TVImages/felicity.jpg; sourceTree = "<group>"; };
-		A20816A31D9A3E51002373B0 /* firefly.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = firefly.jpg; path = ../TVImages/firefly.jpg; sourceTree = "<group>"; };
-		A20816A41D9A3E51002373B0 /* newsradio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = newsradio.jpg; path = ../TVImages/newsradio.jpg; sourceTree = "<group>"; };
-		A20816A51D9A3E51002373B0 /* The O.C..jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The O.C..jpg"; path = "../TVImages/The O.C..jpg"; sourceTree = "<group>"; };
-		A20816A61D9A3E51002373B0 /* The Office.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Office.jpg"; path = "../TVImages/The Office.jpg"; sourceTree = "<group>"; };
-		A20816A71D9A3E51002373B0 /* roswell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = roswell.jpg; path = ../TVImages/roswell.jpg; sourceTree = "<group>"; };
-		A20816A81D9A3E51002373B0 /* The Wonder Years.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Wonder Years.jpg"; path = "../TVImages/The Wonder Years.jpg"; sourceTree = "<group>"; };
+		A2878D541DA3365300E1F903 /* 24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 24.jpg; sourceTree = "<group>"; };
+		A2878D551DA3365300E1F903 /* Arrested Development.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Arrested Development.jpg"; sourceTree = "<group>"; };
+		A2878D561DA3365300E1F903 /* Buffy the Vampire Slayer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Buffy the Vampire Slayer.jpg"; sourceTree = "<group>"; };
+		A2878D571DA3365300E1F903 /* community.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = community.jpg; sourceTree = "<group>"; };
+		A2878D581DA3365300E1F903 /* dexter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dexter.jpg; sourceTree = "<group>"; };
+		A2878D591DA3365300E1F903 /* felicity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = felicity.jpg; sourceTree = "<group>"; };
+		A2878D5A1DA3365300E1F903 /* firefly.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firefly.jpg; sourceTree = "<group>"; };
+		A2878D5B1DA3365300E1F903 /* newsradio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = newsradio.jpg; sourceTree = "<group>"; };
+		A2878D5C1DA3365300E1F903 /* roswell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = roswell.jpg; sourceTree = "<group>"; };
+		A2878D5D1DA3365300E1F903 /* The O.C..jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The O.C..jpg"; sourceTree = "<group>"; };
+		A2878D5E1DA3365300E1F903 /* The Office.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Office.jpg"; sourceTree = "<group>"; };
+		A2878D5F1DA3365300E1F903 /* The Wonder Years.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Wonder Years.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,18 +95,18 @@
 		A208169C1D9A3E37002373B0 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				A208169D1D9A3E51002373B0 /* 24.jpg */,
-				A208169E1D9A3E51002373B0 /* Arrested Development.jpg */,
-				A208169F1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg */,
-				A20816A01D9A3E51002373B0 /* community.jpg */,
-				A20816A11D9A3E51002373B0 /* dexter.jpg */,
-				A20816A21D9A3E51002373B0 /* felicity.jpg */,
-				A20816A31D9A3E51002373B0 /* firefly.jpg */,
-				A20816A41D9A3E51002373B0 /* newsradio.jpg */,
-				A20816A51D9A3E51002373B0 /* The O.C..jpg */,
-				A20816A61D9A3E51002373B0 /* The Office.jpg */,
-				A20816A71D9A3E51002373B0 /* roswell.jpg */,
-				A20816A81D9A3E51002373B0 /* The Wonder Years.jpg */,
+				A2878D541DA3365300E1F903 /* 24.jpg */,
+				A2878D551DA3365300E1F903 /* Arrested Development.jpg */,
+				A2878D561DA3365300E1F903 /* Buffy the Vampire Slayer.jpg */,
+				A2878D571DA3365300E1F903 /* community.jpg */,
+				A2878D581DA3365300E1F903 /* dexter.jpg */,
+				A2878D591DA3365300E1F903 /* felicity.jpg */,
+				A2878D5A1DA3365300E1F903 /* firefly.jpg */,
+				A2878D5B1DA3365300E1F903 /* newsradio.jpg */,
+				A2878D5C1DA3365300E1F903 /* roswell.jpg */,
+				A2878D5D1DA3365300E1F903 /* The O.C..jpg */,
+				A2878D5E1DA3365300E1F903 /* The Office.jpg */,
+				A2878D5F1DA3365300E1F903 /* The Wonder Years.jpg */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -169,21 +169,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A20816AA1D9A3E51002373B0 /* Arrested Development.jpg in Resources */,
+				A2878D621DA3365300E1F903 /* Buffy the Vampire Slayer.jpg in Resources */,
+				A2878D651DA3365300E1F903 /* felicity.jpg in Resources */,
 				A20816951D9A3ADD002373B0 /* LaunchScreen.storyboard in Resources */,
-				A20816B31D9A3E51002373B0 /* roswell.jpg in Resources */,
-				A20816AB1D9A3E51002373B0 /* Buffy the Vampire Slayer.jpg in Resources */,
-				A20816B11D9A3E51002373B0 /* The O.C..jpg in Resources */,
-				A20816AE1D9A3E51002373B0 /* felicity.jpg in Resources */,
+				A2878D611DA3365300E1F903 /* Arrested Development.jpg in Resources */,
+				A2878D691DA3365300E1F903 /* The O.C..jpg in Resources */,
 				A20816921D9A3ADD002373B0 /* Assets.xcassets in Resources */,
-				A20816AF1D9A3E51002373B0 /* firefly.jpg in Resources */,
+				A2878D6B1DA3365300E1F903 /* The Wonder Years.jpg in Resources */,
+				A2878D661DA3365300E1F903 /* firefly.jpg in Resources */,
+				A2878D681DA3365300E1F903 /* roswell.jpg in Resources */,
+				A2878D6A1DA3365300E1F903 /* The Office.jpg in Resources */,
 				A20816901D9A3ADD002373B0 /* Main.storyboard in Resources */,
-				A20816AD1D9A3E51002373B0 /* dexter.jpg in Resources */,
-				A20816B21D9A3E51002373B0 /* The Office.jpg in Resources */,
-				A20816B41D9A3E51002373B0 /* The Wonder Years.jpg in Resources */,
-				A20816B01D9A3E51002373B0 /* newsradio.jpg in Resources */,
-				A20816A91D9A3E51002373B0 /* 24.jpg in Resources */,
-				A20816AC1D9A3E51002373B0 /* community.jpg in Resources */,
+				A2878D641DA3365300E1F903 /* dexter.jpg in Resources */,
+				A2878D671DA3365300E1F903 /* newsradio.jpg in Resources */,
+				A2878D601DA3365300E1F903 /* 24.jpg in Resources */,
+				A2878D631DA3365300E1F903 /* community.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -348,6 +348,7 @@
 				A208169B1D9A3ADD002373B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
